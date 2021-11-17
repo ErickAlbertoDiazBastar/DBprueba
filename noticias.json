@@ -1,0 +1,21 @@
+{
+    "noticias": [
+      {
+        "id": 1,
+        "name": "NOTICIA",
+        "price": 45,
+        "description": "TEXTO PEQUEÑO ACERCA DE LA NOTICIA",
+        "categoryId": 1,
+        "stock": 0
+      },
+      {
+        "id": 2,
+        "name": "Hackeando el cerebro",
+        "price": 5,
+        "description": "En Hackeando del cerebro de tus compradores, Corti nos revela cómo muchas compañías crean productos digitales o procesos de venta capaces de conectar con la psicología del comprador.",
+        "categoryId": 1,
+        "stock": 10
+      }
+
+    ]
+  }
