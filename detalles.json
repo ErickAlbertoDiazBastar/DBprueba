@@ -1,0 +1,18 @@
+{
+    "detalles": [
+      {
+        "id": 1,
+        "name": "Lluvias en Tabasco",
+        "author": "Park Row at Beekman St",
+        "city": "New York",
+        "details": "El Instituto de Protección Civil del Estado de Tabasco (IPCET) reporta que persistirá aire seco en la atmósfera, limitando los canales de baja presión en la región y manteniendo un potencial de lloviznas en el sur del Estado, las cuales podrían ocurrir para el final de la tarde y la noche. El organismo precisó que se esperan posibles lloviznas dispersas en los municipios de Huimanguillo y Tacotalpa, sin que se prevean precipitaciones en el resto del Estado. Informó que se esperan temperaturas máximas de 27 a 31 grados centígrados y mínimas de 18 a 21 grados, con vientos del Noreste y Sureste de 10 a 15 kilómetros por hora y rachas de 20 a 30 kilómetros por hora. En cuanto al semáforo de ríos, comunicó que estos actualmente se encuentran en su nivel normal, sin representar riesgo alguno a la población. El IPCET reitera a la ciudadanía que ante cualquier emergencia, reportarla al 911 y al teléfono (993) 3581360 con varias líneas de atención o al correo electrónico: emergencias_delta@hotmail.com, con atención las 24 horas."
+      },
+      {
+        "id": 2,
+        "name": "Store Alcalá",
+        "address": "Calle de Alcalá, 21",
+        "city": "Madrid",
+        "details": "El Instituto de Protección Civil del Estado de Tabasco (IPCET) reporta que persistirá aire seco en la atmósfera, limitando los canales de baja presión en la región y manteniendo un potencial de lloviznas en el sur del Estado, las cuales podrían ocurrir para el final de la tarde y la noche. El organismo precisó que se esperan posibles lloviznas dispersas en los municipios de Huimanguillo y Tacotalpa, sin que se prevean precipitaciones en el resto del Estado. Informó que se esperan temperaturas máximas de 27 a 31 grados centígrados y mínimas de 18 a 21 grados, con vientos del Noreste y Sureste de 10 a 15 kilómetros por hora y rachas de 20 a 30 kilómetros por hora. En cuanto al semáforo de ríos, comunicó que estos actualmente se encuentran en su nivel normal, sin representar riesgo alguno a la población. El IPCET reitera a la ciudadanía que ante cualquier emergencia, reportarla al 911 y al teléfono (993) 3581360 con varias líneas de atención o al correo electrónico: emergencias_delta@hotmail.com, con atención las 24 horas."
+      }
+    ],
+  }
